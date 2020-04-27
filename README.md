@@ -4,14 +4,10 @@
 
 All my writings.
 
----
-
 ## 📄️ Articles:
 
 - [Como utilizar o ORM SQLite-net para bancos de dados na Unity](https://link.medium.com/ihKdlrni25).
 - [Como utilizar o SQLCipher para encriptação de bancos de dados na Unity](https://link.medium.com/c15WeOoj25).
-
----
 
 ## 📌️ Notes:
 
