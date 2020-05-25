@@ -2,7 +2,7 @@
 💡️ My Writings
 </h1>
 
-All my writings.
+All my articles, notes and other writings.
 
 ## 📄️ Articles:
 
